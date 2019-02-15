@@ -1,0 +1,21 @@
+{
+  "name": "site",
+  "homepage": "https://github.com/GuilhermeLegramante/site-guilherme-legramante",
+  "authors": [
+    "GuilhermeLegramante <guilhermelegramante@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
