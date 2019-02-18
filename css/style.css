@@ -1,14 +1,5 @@
-
-.logo {
-  background: url(images/logo.png);
-  background-color: black;
-}
-
-.gradient {
-  background-image: -moz-linear-gradient( 0deg, rgb(7,7,7) 0%, rgb(200,255,255) 100%);
-  background-image: -webkit-linear-gradient( 0deg, rgb(7,7,7) 0%, rgb(200,255,255) 100%);
-  background-image: -ms-linear-gradient( 0deg, rgb(7,7,7) 0%, rgb(200,255,255) 100%);
-  
-}
-
-
+.classe {
+  font-size: 20px; }
+  .classe .filho {
+    width: 30px;
+    height: 30px; }
